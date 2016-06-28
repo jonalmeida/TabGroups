@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tab Groups</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_title_add_url">Add URL</string>
+</resources>
